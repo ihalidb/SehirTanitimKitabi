@@ -13,6 +13,8 @@
 		ECAD0DC52A76A20800CFA67A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ECAD0DC32A76A20800CFA67A /* Main.storyboard */; };
 		ECAD0DC72A76A20900CFA67A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ECAD0DC62A76A20900CFA67A /* Assets.xcassets */; };
 		ECAD0DCA2A76A20900CFA67A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ECAD0DC82A76A20900CFA67A /* LaunchScreen.storyboard */; };
+		ECAD0DD22A76A2F300CFA67A /* DetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECAD0DD12A76A2F300CFA67A /* DetailsViewController.swift */; };
+		ECAD0DD42A76A94F00CFA67A /* Sehir.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECAD0DD32A76A94F00CFA67A /* Sehir.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		ECAD0DC62A76A20900CFA67A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ECAD0DC92A76A20900CFA67A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ECAD0DCB2A76A20900CFA67A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ECAD0DD12A76A2F300CFA67A /* DetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsViewController.swift; sourceTree = "<group>"; };
+		ECAD0DD32A76A94F00CFA67A /* Sehir.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sehir.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,10 +63,12 @@
 				ECAD0DBD2A76A20800CFA67A /* AppDelegate.swift */,
 				ECAD0DBF2A76A20800CFA67A /* SceneDelegate.swift */,
 				ECAD0DC12A76A20800CFA67A /* ViewController.swift */,
+				ECAD0DD12A76A2F300CFA67A /* DetailsViewController.swift */,
 				ECAD0DC32A76A20800CFA67A /* Main.storyboard */,
 				ECAD0DC62A76A20900CFA67A /* Assets.xcassets */,
 				ECAD0DC82A76A20900CFA67A /* LaunchScreen.storyboard */,
 				ECAD0DCB2A76A20900CFA67A /* Info.plist */,
+				ECAD0DD32A76A94F00CFA67A /* Sehir.swift */,
 			);
 			path = SehirTanitimKitabi;
 			sourceTree = "<group>";
@@ -141,6 +147,8 @@
 				ECAD0DC22A76A20800CFA67A /* ViewController.swift in Sources */,
 				ECAD0DBE2A76A20800CFA67A /* AppDelegate.swift in Sources */,
 				ECAD0DC02A76A20800CFA67A /* SceneDelegate.swift in Sources */,
+				ECAD0DD22A76A2F300CFA67A /* DetailsViewController.swift in Sources */,
+				ECAD0DD42A76A94F00CFA67A /* Sehir.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
